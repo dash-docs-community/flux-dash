@@ -1,5 +1,7 @@
 # [Flux](http://facebook.github.io/flux/) documentation for [Dash](http://kapeli.com/dash)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/flux-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/flux-dash)
+
 ## Installation in Dash
 
 **To install the Flux documentation in Dash, go to:**
